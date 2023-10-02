@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Producto 1",
+        "price": 19.99,
+        "code": "P1",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "title": "Producto 2",
+        "price": 29.99,
+        "code": "P2",
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "title": "Producto 3",
+        "price": 9.99,
+        "code": "P3",
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "title": "Producto 4",
+        "price": 39.99,
+        "code": "P4",
+        "stock": 15
+    },
+    {
+        "id": 5,
+        "title": "Producto 5",
+        "price": 49.99,
+        "code": "P5",
+        "stock": 30
+    },
+    {
+        "id": 6,
+        "title": "Producto 6",
+        "price": 14.99,
+        "code": "P6",
+        "stock": 12
+    },
+    {
+        "id": 7,
+        "title": "Producto 7",
+        "price": 24.99,
+        "code": "P7",
+        "stock": 8
+    },
+    {
+        "id": 8,
+        "title": "Producto 8",
+        "price": 34.99,
+        "code": "P8",
+        "stock": 25
+    },
+    {
+        "id": 9,
+        "title": "Producto 9",
+        "price": 59.99,
+        "code": "P9",
+        "stock": 7
+    },
+    {
+        "id": 10,
+        "title": "Producto 10",
+        "price": 19.99,
+        "code": "P10",
+        "stock": 18
+    }
+]
